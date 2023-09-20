@@ -1,0 +1,10 @@
+Office_friend: Baasha,sanujenp.20@uom.lk,student,2010/08/11
+Official: Sanujen,sanuprem@yahoo.com,CEO
+Personal: Sanu,baasha,sanujenp.20@gmail.com,2000/08/12
+Office_friend: Babi,sanuprem6@gmail.com,student,2010/08/13
+Personal: Sample,sam,spsanujen@gmail.com,1965/11/02
+Personal: sanu,sa,sanuprem6@gmail.com,2022/09/18
+Official: sanusa,sasa@gmail.com,abc
+Office_friend: sa,newlithelp@gmail.com,asa,2022/09/18
+Personal: kobi,ko,kobinarth22@gmail.com,2022/09/19
+Official: yasotha,sanujenp.20@gmail.com,teacher
