@@ -42,8 +42,8 @@ public class Office_friend extends Official implements Wishable{
         prop.put("mail.smtp.auth", "true");
         prop.put("mail.smtp.starttls.enable", "true"); //TLS
 
-        final String username = "sanuprem6@gmail.com";
-        final String password = "huhtszrtfkvuizci";
+        final String username = "";//Enter email and password
+        final String password = "";
 
         Session session = Session.getInstance(prop, new javax.mail.Authenticator() {
             protected PasswordAuthentication getPasswordAuthentication() {
